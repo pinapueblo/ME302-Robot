@@ -1,10 +1,10 @@
 # 1-Pound BattleBot Project
 
-This repository contains CAD files and documentation for a 1-pound combat robot designed for competitive mini battle bot events. The design emphasizes modularity, durability, and functionality using a combination of 3D-printed components and off-the-shelf hardware.
+This repository contains CAD files and documentation for a 1-pound combat robot designed for competitive mini-battlebot events. The design emphasizes modularity, durability, and functionality using 3D-printed components and off-the-shelf hardware.
 
 ## 🔧 Materials Used
 
-- **3D Printed Parts (PLA, 100% infill)**
+- **3D Printed Parts (PLA)**
 - **Acrylic sheets**
 - **Wood**
 - **Fasteners** (machine screws, wood screws)
@@ -35,7 +35,7 @@ This repository contains CAD files and documentation for a 1-pound combat robot 
 
 ## 📌 Notes
 
-This project was developed as a collaborative engineering challenge, focusing on both mechanical design and electronics integration. This repository represents my personal work and contributions, including CAD modeling and system design.
+This project was developed as a collaborative engineering challenge, focusing on both mechanical design and electronics integration. This repository represents the work of my team and me, including CAD modeling and system design.
 
 ---
 
